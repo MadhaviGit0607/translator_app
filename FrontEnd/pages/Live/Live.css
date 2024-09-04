@@ -1,0 +1,11 @@
+.page {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .live-page {
+    background-color: black;
+    background-size: cover;
+    color: white;
+  }
+  

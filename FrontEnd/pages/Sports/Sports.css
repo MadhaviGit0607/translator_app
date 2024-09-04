@@ -1,0 +1,10 @@
+.page {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .sports-page {
+    background-color: black;
+    background-size: cover;
+    color: white;
+  }

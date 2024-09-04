@@ -1,0 +1,11 @@
+.page {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .home-page {
+    background-color: black;
+    background-size: cover;
+    color: white;
+  }
+  
